@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yM5GBatUTwuqFGo51VAZ25sPv0eRFSpsjbQR4/FCC4k=",
+  "Source": "Matchmaking.Api",
+  "BasePath": "_content/Matchmaking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

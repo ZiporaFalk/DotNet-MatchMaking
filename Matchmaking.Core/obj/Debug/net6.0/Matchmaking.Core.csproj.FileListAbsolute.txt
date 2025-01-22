@@ -1,0 +1,73 @@
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.deps.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\refint\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 5 - סידור קבצים פרויקט קודם\Matchmaking.Core\obj\Debug\net6.0\ref\Matchmaking.Core.dll
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.deps.json
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.dll
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.pdb
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfo.cs
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.sourcelink.json
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.dll
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\refint\Matchmaking.Core.dll
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.pdb
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\ref\Matchmaking.Core.dll
+Y:\Groups\Group_1\פלק צפורה\שיעור 5 - סידור קבצים פרויקט מעודכן\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.deps.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\refint\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 6- התחברות ל SQL\Matchmaking.Core\obj\Debug\net6.0\ref\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.deps.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\refint\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\שיעור 7 - קשרי גומלין\Matchmaking.Core\obj\Debug\net6.0\ref\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.deps.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\refint\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\ref\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.deps.json
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\bin\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\refint\Matchmaking.Core.dll
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\Matchmaking.Core.pdb
+C:\Users\user1\Desktop\תכנות\שנה ב\Dotnet\שב\הועלה לגיט\‏‏שיעור 8 - DTO\Matchmaking.Core\obj\Debug\net6.0\ref\Matchmaking.Core.dll
