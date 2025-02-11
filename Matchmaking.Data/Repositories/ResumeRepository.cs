@@ -7,7 +7,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
- 
+using Microsoft.EntityFrameworkCore;
+
 namespace Matchmaking.Data.Repositories
 {
     public class ResumeRepository : IResumeRepository
@@ -18,17 +19,17 @@ namespace Matchmaking.Data.Repositories
         {
             _context = context;
         }
-        public List<Resume> GetList()
+        public async Task<List<Resume>> GetListAsync()
         {
-            return _context.Resumes.ToList();
+            return await _context.Resumes.ToListAsync();
         }
-        public Resume GetById(int id)
+        public async Task<Resume> GetByIdAsync(int id)
         {
-            return _context.Resumes.FirstOrDefault(x => x.Id == id);
+            return await _context.Resumes.FirstOrDefaultAsync(x => x.Id == id);
         }
-        public Resume GetByMin(string min)
+        public async Task<Resume> GetByMinAsync(string min)
         {
-            return _context.Resumes.FirstOrDefault(x => x.Min == min);
+            return await _context.Resumes.FirstOrDefaultAsync(x => x.Min == min);
         }
         public void Add(Resume r)
         {

@@ -22,37 +22,36 @@ namespace Matchmaking.Api.Controllers
             _resumeService = resumeService;
             _mapper = mapper;
         }
-
         //שליפת כל המועמדים                 
         [HttpGet]
-        public IEnumerable<ResumeDto> Get()
+        public async Task<IEnumerable<ResumeDto>> Get()
         {
             //   return _resumeService.GetAll();
-            var listResumes = _resumeService.GetAll();
+            var listResumes = await _resumeService.GetAllAsync();
             var listResumesDto = _mapper.Map<IEnumerable<ResumeDto>>(listResumes);
             return listResumesDto;
 
         }
 
         [HttpGet("{id}")]
-        public ActionResult Get(int id)
+        public async Task<ActionResult> Get(int id)
         {
-            Resume resume = _resumeService.GetById(id);
+            Resume resume = await _resumeService.GetByIdAsync(id);
             if (resume is null)
                 return NotFound();
             var resumeDto = _mapper.Map<ResumeDto>(resume);
             return Ok(resumeDto);
         }
         //שליפת מועמד לפי מין          
-        [HttpGet("{min}")]
-        public ActionResult Get(string min)
-        {
-            Resume resume = _resumeService.GetByMin(min);
-            if (resume is null)
-                return NotFound();
-            var resumeDto = _mapper.Map<ResumeDto>(resume);
-            return Ok(resumeDto);
-        }
+        //[HttpGet("{min}")]
+        //public async Task<ActionResult> Get(string min)
+        //{
+        //    Resume resume = await _resumeService.GetByMinAsync(min);
+        //    if (resume is null)
+        //        return NotFound();
+        //    var resumeDto = _mapper.Map<ResumeDto>(resume);
+        //    return Ok(resumeDto);
+        //}
         //הוספת מועמד חדש                   
         [HttpPost]
         public void Post([FromBody] ResumeDto c)

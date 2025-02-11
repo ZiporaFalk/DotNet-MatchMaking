@@ -10,12 +10,11 @@ namespace Matchmaking.Core.Services
 {
     public interface IResumeService
     {
-        List<Resume> GetAll();
+        Task<List<Resume>> GetAllAsync();
 
-        Resume GetById(int id);
+        Task<Resume> GetByIdAsync(int id);
 
-        Resume GetByMin(string min);
-
+        Task<Resume> GetByMinAsync(string min);
         void Add(Resume r);
 
         void UpdatePhon(int id, string phon);

@@ -9,9 +9,9 @@ namespace Matchmaking.Core.Repositories
 {
     public interface IResumeRepository
     {
-        List<Resume> GetList();
-        Resume GetById(int id);
-        Resume GetByMin(string min);
+        Task<List<Resume>> GetListAsync();
+        Task<Resume> GetByIdAsync(int id);
+        Task<Resume> GetByMinAsync(string min);
         void Add(Resume r);
         void UpdatePhon(int id, string phon);
         void Delete(int id);

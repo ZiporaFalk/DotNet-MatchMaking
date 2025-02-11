@@ -19,17 +19,17 @@ namespace Matchmaking.Service.Services
             _resumeRepository = resumeRepository;
             _managerRepository = managerRepository;
         }
-        public List<Resume> GetAll()
+        public async Task<List<Resume>> GetAllAsync()
         {
-            return _resumeRepository.GetList();
+            return await _resumeRepository.GetListAsync();
         }
-        public Resume GetById(int id)
+        public async Task<Resume> GetByIdAsync(int id)
         {
-            return _resumeRepository.GetById(id);
+            return await _resumeRepository.GetByIdAsync(id);
         }
-        public Resume GetByMin(string min)
+        public async Task<Resume> GetByMinAsync(string min)
         {
-            return _resumeRepository.GetByMin(min);
+            return await _resumeRepository.GetByMinAsync(min);
         }
         public void Add(Resume r)
         {
